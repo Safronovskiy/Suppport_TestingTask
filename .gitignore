@@ -1,0 +1,8 @@
+.env
+db.sqlite3
+
+/accounts/migrations/*
+!/accounts/migrations/__init__.py
+
+/tech_support/migrations/*
+!/tech_support/migrations/__init__.py
